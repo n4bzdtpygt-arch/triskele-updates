@@ -4,6 +4,14 @@
         <title>Triskele</title>
         <item>
             <title>0.9</title>
+            <pubDate>Sat, 21 Nov 2026 18:29:30 +0000</pubDate>
+            <sparkle:version>204</sparkle:version>
+            <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://n4bzdtpygt-arch.github.io/triskele-updates/Triskele-0.9-build204-lighting-preview.zip" length="9147574" type="application/octet-stream" sparkle:edSignature="jhuOrv/1QVj/oGMbVAb4HD4Mzf36LotwE32prSZlr2vlEz3dOJT2n5bgFUYuGJO8c1X7vfR8OTuUZeKvcmE8DA=="/>
+        </item>
+        <item>
+            <title>0.9</title>
             <pubDate>Sat, 21 Nov 2026 15:16:04 +0000</pubDate>
             <sparkle:version>185</sparkle:version>
             <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
