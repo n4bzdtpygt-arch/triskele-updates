@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Triskele</title>
+        <item>
+            <title>0.9</title>
+            <pubDate>Sat, 21 Nov 2026 11:44:03 +0000</pubDate>
+            <sparkle:version>184</sparkle:version>
+            <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://n4bzdtpygt-arch.github.io/triskele-updates/Triskele-0.9-build184-lighting-preview.zip" length="8591863" type="application/octet-stream" sparkle:edSignature="ACModCNKSENWgP/9r/a28IAYPZsfHy9HeMtsFShtqCv+U58UMdaVnTExz90w1muuPGndPYITolOYh7+OaMInCg=="/>
+        </item>
+    </channel>
+</rss>
