@@ -4,6 +4,22 @@
         <title>Triskele</title>
         <item>
             <title>0.9</title>
+            <pubDate>Sun, 22 Nov 2026 16:57:38 +0000</pubDate>
+            <sparkle:version>216</sparkle:version>
+            <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Sound editing, effects and the level line</h2>
+<ul>
+<li><b>Level line</b>: in Trim &amp; Loop, click Edit, drag across a stretch, then drag the line up or down.</li>
+<li><b>Quick edits</b>: select a stretch and right-click for Delete, Silence, Gain, Fades, Reverse, Copy/Paste, Split, Render to a New File.</li>
+<li><b>Effects tab</b>: EQ, filter, reverb, delay, compressor, limiter, pitch, distortion and Audio Unit plug-ins, with presets and Freeze.</li>
+<li><b>Lighting</b>: the Program view has a pan/tilt pad and an on-screen keypad; the visualiser has its own window.</li>
+</ul>
+]]></description>
+            <enclosure url="https://n4bzdtpygt-arch.github.io/triskele-updates/Triskele-0.9-build216-lighting-preview.zip" length="10280769" type="application/octet-stream" sparkle:edSignature="ESi6EVqSHswSvqOuJo/beUnQfJxbnzsjOjzE8VSJTM+O8A332mEIRjj66Uta1FuUsPUkxMsZ97PkAuNkUanEDw=="/>
+        </item>
+        <item>
+            <title>0.9</title>
             <pubDate>Sun, 22 Nov 2026 15:05:20 +0000</pubDate>
             <sparkle:version>211</sparkle:version>
             <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
