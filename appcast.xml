@@ -4,27 +4,18 @@
         <title>Triskele</title>
         <item>
             <title>0.9</title>
-            <pubDate>Sat, 21 Nov 2026 18:29:30 +0000</pubDate>
-            <sparkle:version>204</sparkle:version>
+            <pubDate>Sun, 22 Nov 2026 15:05:20 +0000</pubDate>
+            <sparkle:version>211</sparkle:version>
             <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://n4bzdtpygt-arch.github.io/triskele-updates/Triskele-0.9-build204-lighting-preview.zip" length="9147574" type="application/octet-stream" sparkle:edSignature="jhuOrv/1QVj/oGMbVAb4HD4Mzf36LotwE32prSZlr2vlEz3dOJT2n5bgFUYuGJO8c1X7vfR8OTuUZeKvcmE8DA=="/>
-        </item>
-        <item>
-            <title>0.9</title>
-            <pubDate>Sat, 21 Nov 2026 15:16:04 +0000</pubDate>
-            <sparkle:version>185</sparkle:version>
-            <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://n4bzdtpygt-arch.github.io/triskele-updates/Triskele-0.9-build185-lighting-preview.zip" length="8615764" type="application/octet-stream" sparkle:edSignature="6c0q/MEq1aPclMb8uhNM51lDbINYbobqx6SQeE+myP1GAdso7R2JJWRkI36JLMZnkpvR5QwKyI71SMFlaB0JCA=="/>
-        </item>
-        <item>
-            <title>0.9</title>
-            <pubDate>Sat, 21 Nov 2026 11:44:03 +0000</pubDate>
-            <sparkle:version>184</sparkle:version>
-            <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://n4bzdtpygt-arch.github.io/triskele-updates/Triskele-0.9-build184-lighting-preview.zip" length="8591863" type="application/octet-stream" sparkle:edSignature="ACModCNKSENWgP/9r/a28IAYPZsfHy9HeMtsFShtqCv+U58UMdaVnTExz90w1muuPGndPYITolOYh7+OaMInCg=="/>
+            <description><![CDATA[<h2>Lighting preview</h2>
+<ul>
+<li><b>Import Rig</b> (Patch): MVR, CSV patch sheets, Lightwright XML, lighting paperwork PDFs and plot PDFs.</li>
+<li><b>Export Rig</b> (Patch): a printable plot, channel hookup and instrument schedule, a CSV patch sheet and MVR.</li>
+<li><b>3D visualiser</b>: the rig in 3D with live beams (the 3D view, or a 3D pane in any view).</li>
+</ul>
+]]></description>
+            <enclosure url="https://n4bzdtpygt-arch.github.io/triskele-updates/Triskele-0.9-build211-lighting-preview.zip" length="9692414" type="application/octet-stream" sparkle:edSignature="z8a0UMplax0jgCKHfIu7wVitCtM+67bHu8EoTkYNfsacDfhf1UNo0k1/danhHy785fdxpiGMlhH3JSmiUVT8Cg=="/>
         </item>
     </channel>
 </rss>
