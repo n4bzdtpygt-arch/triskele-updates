@@ -4,6 +4,21 @@
         <title>Triskele</title>
         <item>
             <title>0.9</title>
+            <pubDate>Mon, 23 Nov 2026 08:01:01 +0000</pubDate>
+            <sparkle:version>235</sparkle:version>
+            <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>The iPad as a lighting wing, and touch screens</h2>
+<ul>
+<li><b>iPad lighting wing</b>: turn on the phone remote (Setup → MIDI, OSC, Timecode &amp; Phone Remote), open the <b>/wing</b> address it shows on the iPad and enter the PIN. Groups, palettes, keys and encoders by touch; everything happens on the Mac at once.</li>
+<li><b>Touch mode</b> for touch monitors (Lighting → Tools → Touch Screen): finger-sized keys, tiles and knobs, and ADD / REMOVE keys in place of ⇧ and ⌘.</li>
+<li><b>Programming screen</b>: smaller palette tiles, a roomier keypad, the selection tools above the groups, the encoders as devices along the bottom with a Programmer device (Fan, record mask, time, Blind).</li>
+</ul>
+]]></description>
+            <enclosure url="https://n4bzdtpygt-arch.github.io/triskele-updates/Triskele-0.9-build235-lighting-preview.zip" length="10651799" type="application/octet-stream" sparkle:edSignature="BpACQq+Y/cRAH98wdxYMfTbVAq6GXO8ssX9g5NkmUwAoZkLNoGY207rLLRWIp3EuAVWXKQLvanouH8OOB/ARBw=="/>
+        </item>
+        <item>
+            <title>0.9</title>
             <pubDate>Sun, 22 Nov 2026 21:41:06 +0000</pubDate>
             <sparkle:version>232</sparkle:version>
             <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
@@ -35,21 +50,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://n4bzdtpygt-arch.github.io/triskele-updates/Triskele-0.9-build216-lighting-preview.zip" length="10280769" type="application/octet-stream" sparkle:edSignature="ESi6EVqSHswSvqOuJo/beUnQfJxbnzsjOjzE8VSJTM+O8A332mEIRjj66Uta1FuUsPUkxMsZ97PkAuNkUanEDw=="/>
-        </item>
-        <item>
-            <title>0.9</title>
-            <pubDate>Sun, 22 Nov 2026 15:05:20 +0000</pubDate>
-            <sparkle:version>211</sparkle:version>
-            <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Lighting preview</h2>
-<ul>
-<li><b>Import Rig</b> (Patch): MVR, CSV patch sheets, Lightwright XML, lighting paperwork PDFs and plot PDFs.</li>
-<li><b>Export Rig</b> (Patch): a printable plot, channel hookup and instrument schedule, a CSV patch sheet and MVR.</li>
-<li><b>3D visualiser</b>: the rig in 3D with live beams (the 3D view, or a 3D pane in any view).</li>
-</ul>
-]]></description>
-            <enclosure url="https://n4bzdtpygt-arch.github.io/triskele-updates/Triskele-0.9-build211-lighting-preview.zip" length="9692414" type="application/octet-stream" sparkle:edSignature="z8a0UMplax0jgCKHfIu7wVitCtM+67bHu8EoTkYNfsacDfhf1UNo0k1/danhHy785fdxpiGMlhH3JSmiUVT8Cg=="/>
         </item>
     </channel>
 </rss>
