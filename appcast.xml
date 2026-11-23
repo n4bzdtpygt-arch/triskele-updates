@@ -4,6 +4,22 @@
         <title>Triskele</title>
         <item>
             <title>0.9</title>
+            <pubDate>Mon, 23 Nov 2026 21:28:00 +0000</pubDate>
+            <sparkle:version>241</sparkle:version>
+            <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>MIDI and key mapping, plug-ins, touch screens, rig import</h2>
+<ul>
+<li><b>MIDI and key mapping</b>, the way Ableton Live does it: <b>⇧⌘M</b> (or <b>MIDI</b> in the lighting window) tints every control you can map; click one, then move a knob, hit a pad or press a key (<b>⇧⌘K</b> for the Mac's keys). Faders take a range and pick up where they are; endless encoders work too. <b>Setup → MIDI &amp; Key Mappings…</b> lists them; they're saved with the show.</li>
+<li><b>Plug-ins</b>: effects registered as music effects now show in Add Effect, and a new <b>Plug-ins…</b> button opens a searchable list of every Audio Unit effect on the Mac. If yours don't appear, it says why (Triskele reads Audio Units, not VST or AAX, and Logic's own effects aren't Audio Units), and the show log records what it found: please send that line if something's missing.</li>
+<li><b>Touch screens</b>: a <b>TOUCH</b> switch at the top of the lighting window (lit when on); more touch monitors are recognised by themselves; touch keys are bigger (about 50–60 pt).</li>
+<li><b>Import Rig</b>: lighting paperwork with two positions on one page (a "3rd Electric" heading under "2nd Strip") reads correctly. A plot PDF's lights can't be read reliably from the drawing, so for exact lights import the venue's channel hookup or instrument schedule (PDF), an MVR or a CSV. <b>Try Reading the Drawing</b> is there to experiment with: check every light it reads.</li>
+</ul>
+]]></description>
+            <enclosure url="https://n4bzdtpygt-arch.github.io/triskele-updates/Triskele-0.9-build241-lighting-preview.zip" length="11129075" type="application/octet-stream" sparkle:edSignature="MvFYtwlwFePesYI1dhy6JyXUA8b5ofExg1MZ0ubn+VxyuTG+DaG2xgJ1DHb0KTzIdb9WE4bt4I1tvjN/lks6Bw=="/>
+        </item>
+        <item>
+            <title>0.9</title>
             <pubDate>Mon, 23 Nov 2026 08:01:01 +0000</pubDate>
             <sparkle:version>235</sparkle:version>
             <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
@@ -34,22 +50,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://n4bzdtpygt-arch.github.io/triskele-updates/Triskele-0.9-build232-lighting-preview.zip" length="10573915" type="application/octet-stream" sparkle:edSignature="fRiSh/MyXOAFsc/qeLEz2fb7N6X6ymH3uEftaN5Eh/1IP97ridJbp9a5DP2dPqPrv8XJizW3yj4YTtpWD5VoDw=="/>
-        </item>
-        <item>
-            <title>0.9</title>
-            <pubDate>Sun, 22 Nov 2026 16:57:38 +0000</pubDate>
-            <sparkle:version>216</sparkle:version>
-            <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Sound editing, effects and the level line</h2>
-<ul>
-<li><b>Level line</b>: in Trim &amp; Loop, click Edit, drag across a stretch, then drag the line up or down.</li>
-<li><b>Quick edits</b>: select a stretch and right-click for Delete, Silence, Gain, Fades, Reverse, Copy/Paste, Split, Render to a New File.</li>
-<li><b>Effects tab</b>: EQ, filter, reverb, delay, compressor, limiter, pitch, distortion and Audio Unit plug-ins, with presets and Freeze.</li>
-<li><b>Lighting</b>: the Program view has a pan/tilt pad and an on-screen keypad; the visualiser has its own window.</li>
-</ul>
-]]></description>
-            <enclosure url="https://n4bzdtpygt-arch.github.io/triskele-updates/Triskele-0.9-build216-lighting-preview.zip" length="10280769" type="application/octet-stream" sparkle:edSignature="ESi6EVqSHswSvqOuJo/beUnQfJxbnzsjOjzE8VSJTM+O8A332mEIRjj66Uta1FuUsPUkxMsZ97PkAuNkUanEDw=="/>
         </item>
     </channel>
 </rss>
