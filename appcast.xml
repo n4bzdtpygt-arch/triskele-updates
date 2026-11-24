@@ -4,6 +4,27 @@
         <title>Triskele</title>
         <item>
             <title>0.9</title>
+            <pubDate>Tue, 24 Nov 2026 13:56:28 +0000</pubDate>
+            <sparkle:version>249</sparkle:version>
+            <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Video effects, a new Program page, playbacks, and plot reading that checks itself</h2>
+<ul>
+<li><b>Video effects</b>: video, picture, text and camera cues have an <b>Effects</b> tab: brightness, contrast, saturation (to black and white), hue, sepia, blur, vignette and a colour key for a green or blue screen, with ready-made looks. A fade cue's <b>Effects</b> toggle fades them (drift into black and white, blur out of focus), and fades a sound's built-in effects too (a reverb tail growing, a filter sweeping). The cue's own effects come back at its next GO.</li>
+<li><b>Lighting, Program page</b>: the keys are a full-height column on the right, the encoders run along the bottom, and the middle is four pools you choose from each pane's title tile (and how each looks: big or small tiles, a list, effects by type). <b>Hide Keys</b> (Tools menu, ⌃⌘K, the KEYS switch, or a MIDI pad) gives their space to more pools.</li>
+<li><b>Playbacks</b> view: ten faders to a page with GO, FLASH and REL, each holding a cue stack; every fader and button can be mapped to a MIDI controller and follows the page. <b>TAP</b> sets a tempo that effects can follow.</li>
+<li><b>Effects</b>: new Beam sweep (zoom, iris…) and Colour wave effects, a <b>Fan</b> knob that grows an effect along the lights, and <b>Tempo</b> to follow the tapped beat.</li>
+<li><b>Light cues</b>: right-click a cue in the cue sheet → <b>Preview</b> shows it on the plan and visualiser without touching the stage; <b>Edit in Blind</b> opens it in blind and Update goes into that cue.</li>
+<li><b>Fixtures</b>: Add Fixtures → <b>New Type…</b> makes a fixture type from its manual (starting from the one selected), saved on this Mac and exportable as GDTF; <b>Request…</b> asks for one or opens GDTF Share.</li>
+<li><b>Import Rig</b>: plots are now read from their own drawing lines, so each light is put on the pipe that actually runs through it (lights rated sure were right 9 times in 10 on nine venues' plots, up from 3 in 4). With the venue's paperwork, every light is <b>checked against the plot</b>: a strip says how many agree, disagree or are only on one side, and <b>Review</b> shows the differences side by side to choose from.</li>
+<li>Exported plots now say <b>Key to Fixtures</b>.</li>
+</ul>
+<p>A test show to try all of this (sound, video for a three-projector venue, and a lighting rig) comes as a separate folder.</p>
+]]></description>
+            <enclosure url="https://n4bzdtpygt-arch.github.io/triskele-updates/Triskele-0.9-build249-lighting-preview.zip" length="11866495" type="application/octet-stream" sparkle:edSignature="0O6DvKTXavoV0c3R7VVRVeUSXbU72d97p10+uC7GZsmvXn8WpKzIu2ikkDv1mirclnCaY2zTj6EabMY96JpeCQ=="/>
+        </item>
+        <item>
+            <title>0.9</title>
             <pubDate>Mon, 23 Nov 2026 23:35:50 +0000</pubDate>
             <sparkle:version>242</sparkle:version>
             <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
@@ -33,21 +54,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://n4bzdtpygt-arch.github.io/triskele-updates/Triskele-0.9-build241-lighting-preview.zip" length="11129075" type="application/octet-stream" sparkle:edSignature="MvFYtwlwFePesYI1dhy6JyXUA8b5ofExg1MZ0ubn+VxyuTG+DaG2xgJ1DHb0KTzIdb9WE4bt4I1tvjN/lks6Bw=="/>
-        </item>
-        <item>
-            <title>0.9</title>
-            <pubDate>Mon, 23 Nov 2026 08:01:01 +0000</pubDate>
-            <sparkle:version>235</sparkle:version>
-            <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>The iPad as a lighting wing, and touch screens</h2>
-<ul>
-<li><b>iPad lighting wing</b>: turn on the phone remote (Setup → MIDI, OSC, Timecode &amp; Phone Remote), open the <b>/wing</b> address it shows on the iPad and enter the PIN. Groups, palettes, keys and encoders by touch; everything happens on the Mac at once.</li>
-<li><b>Touch mode</b> for touch monitors (Lighting → Tools → Touch Screen): finger-sized keys, tiles and knobs, and ADD / REMOVE keys in place of ⇧ and ⌘.</li>
-<li><b>Programming screen</b>: smaller palette tiles, a roomier keypad, the selection tools above the groups, the encoders as devices along the bottom with a Programmer device (Fan, record mask, time, Blind).</li>
-</ul>
-]]></description>
-            <enclosure url="https://n4bzdtpygt-arch.github.io/triskele-updates/Triskele-0.9-build235-lighting-preview.zip" length="10651799" type="application/octet-stream" sparkle:edSignature="BpACQq+Y/cRAH98wdxYMfTbVAq6GXO8ssX9g5NkmUwAoZkLNoGY207rLLRWIp3EuAVWXKQLvanouH8OOB/ARBw=="/>
         </item>
     </channel>
 </rss>
