@@ -4,6 +4,23 @@
         <title>Triskele</title>
         <item>
             <title>0.9</title>
+            <pubDate>Tue, 24 Nov 2026 15:48:52 +0000</pubDate>
+            <sparkle:version>251</sparkle:version>
+            <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Recording Light cues by number</h2>
+<ul>
+<li><b>record cue 5</b> (or <b>rec q 5</b>) now puts cue 5 in the cue list in number order, between cue 4 and cue 6, whatever the standby is. Point cues too: <b>record q 1.5</b> goes between 1 and 2. The command line says <b>Recorded cue 5</b>.</li>
+<li><b>Number first, as on ChamSys</b>: <b>5 rec</b> or <b>q 5 rec</b>, then Return, records cue 5. On the keys: <b>CUE 5 REC ENTER</b>, or <b>REC CUE 5 ENTER</b> (pressing REC first now works).</li>
+<li>A number a sound or video cue already has is refused, with a free number suggested; a Light cue with that number still asks merge, replace or remove.</li>
+<li>With nothing set, <b>record 5</b> makes an empty cue 5 to fill in later. <b>q 5</b> on its own records nothing and says what does.</li>
+<li>When the cue list can't take a recording (for example a locked show), the lighting window now says why.</li>
+</ul>
+]]></description>
+            <enclosure url="https://n4bzdtpygt-arch.github.io/triskele-updates/Triskele-0.9-build251-lighting-preview.zip" length="11875015" type="application/octet-stream" sparkle:edSignature="gTB8i3qHQl79x0iRfF5jh4yi9OpIJey5HzxB8lBpDgnRh2MWudgo/E9RZAZEGqg7OjJ70GMylNoVmrAIch5sBQ=="/>
+        </item>
+        <item>
+            <title>0.9</title>
             <pubDate>Tue, 24 Nov 2026 13:56:28 +0000</pubDate>
             <sparkle:version>249</sparkle:version>
             <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
@@ -38,22 +55,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://n4bzdtpygt-arch.github.io/triskele-updates/Triskele-0.9-build242-lighting-preview.zip" length="11209707" type="application/octet-stream" sparkle:edSignature="t16zlI0NKUIxJ9/Pv/gipIQwVWzTrMroPIETB5EWrIIIogwYM2qgHrhzZtV4mc0eH9b3xKpIp1PJNeYBSu+YAg=="/>
-        </item>
-        <item>
-            <title>0.9</title>
-            <pubDate>Mon, 23 Nov 2026 21:28:00 +0000</pubDate>
-            <sparkle:version>241</sparkle:version>
-            <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>MIDI and key mapping, plug-ins, touch screens, rig import</h2>
-<ul>
-<li><b>MIDI and key mapping</b>, the way Ableton Live does it: <b>⇧⌘M</b> (or <b>MIDI</b> in the lighting window) tints every control you can map; click one, then move a knob, hit a pad or press a key (<b>⇧⌘K</b> for the Mac's keys). Faders take a range and pick up where they are; endless encoders work too. <b>Setup → MIDI &amp; Key Mappings…</b> lists them; they're saved with the show.</li>
-<li><b>Plug-ins</b>: effects registered as music effects now show in Add Effect, and a new <b>Plug-ins…</b> button opens a searchable list of every Audio Unit effect on the Mac. If yours don't appear, it says why (Triskele reads Audio Units, not VST or AAX, and Logic's own effects aren't Audio Units), and the show log records what it found: please send that line if something's missing.</li>
-<li><b>Touch screens</b>: a <b>TOUCH</b> switch at the top of the lighting window (lit when on); more touch monitors are recognised by themselves; touch keys are bigger (about 50–60 pt).</li>
-<li><b>Import Rig</b>: lighting paperwork with two positions on one page (a "3rd Electric" heading under "2nd Strip") reads correctly. A plot PDF's lights can't be read reliably from the drawing, so for exact lights import the venue's channel hookup or instrument schedule (PDF), an MVR or a CSV. <b>Try Reading the Drawing</b> is there to experiment with: check every light it reads.</li>
-</ul>
-]]></description>
-            <enclosure url="https://n4bzdtpygt-arch.github.io/triskele-updates/Triskele-0.9-build241-lighting-preview.zip" length="11129075" type="application/octet-stream" sparkle:edSignature="MvFYtwlwFePesYI1dhy6JyXUA8b5ofExg1MZ0ubn+VxyuTG+DaG2xgJ1DHb0KTzIdb9WE4bt4I1tvjN/lks6Bw=="/>
         </item>
     </channel>
 </rss>
